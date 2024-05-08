@@ -1,4 +1,4 @@
 # Satyaveer-demo
 This is my first Git Repository
 <br>
-Author-Satyaveer Singh
+Author- Satyaveer Singh Somevanshi
